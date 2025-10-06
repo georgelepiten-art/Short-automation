@@ -1,0 +1,5 @@
+﻿streamlit==1.24.0
+moviepy
+gtts
+numpy
+pandas
